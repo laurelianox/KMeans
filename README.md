@@ -10,8 +10,8 @@ KMeans é um **aprendizado não supervisionado** que é utilizado para:
 - agrupar perfis de clientes
 
 ## Versões:
-LinearRegression - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
-LenearRegressionGit - versão só com a aplicação.
+Kmeans - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
+KMeans_ClearVersion - versão só com a aplicação.
 
 ## Nesta prática utilizamos:
 
