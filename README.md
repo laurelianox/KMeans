@@ -37,7 +37,7 @@ Metodos:<br>
 10. Passos 5 a 9 repetidos, agora para as sepalas.
 
 ## Documentação
-https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html <br>
 https://scikit-learn.org/dev/modules/clustering.html#k-means
 
 ## Final
